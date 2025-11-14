@@ -63,13 +63,7 @@ GameTracker-Backend/
 <h3>2️⃣ Instalar dependencias</h3>
 <pre>npm install</pre>
 
-<h3>3️⃣ Configurar variables de entorno</h3>
-<pre>
-PORT=4000
-MONGO_URI=mongodb://localhost:27017/gametracker
-</pre>
-
-<h3>4️⃣ Ejecutar servidor</h3>
+<h3>3️⃣ Ejecutar servidor</h3>
 <pre>npm run dev</pre>
 
 <hr>
